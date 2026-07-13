@@ -4,7 +4,7 @@
 devices, and spent a decade writing documentation nobody outside a login
 screen ever saw.
 
-This profile has been empty for years — my work lived behind NDAs and in
+This profile has been empty for years – my work lived behind NDAs and in
 Figma files. In June 2026, one talk at WordCamp Europe in Kraków changed
 that ("Nobody knows what you know, and that's your problem" — thank you,
 Vassilena Valchanova).
