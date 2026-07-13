@@ -16,5 +16,5 @@ So I'm opening the workshop. Arriving here through 2026:
   rebuild of zygiel.com
 - 🧰 The Claude Skills I use daily as a product designer
 
-Empty on purpose — watch it fill.
-— Łukasz · zygiel.com
+Empty on purpose – watch it fill.
+– Łukasz · zygiel.com
